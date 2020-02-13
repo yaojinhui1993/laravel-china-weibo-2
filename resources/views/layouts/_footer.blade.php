@@ -3,6 +3,6 @@
     <a href="#">刻意练习，每日精进</a>
 
     <div class="float-right">
-        <a href="#" class="">关于</a>
+        <a href="{{ route('about') }}" class="">关于</a>
     </div>
 </footer>
