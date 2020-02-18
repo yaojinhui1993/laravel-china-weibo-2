@@ -35,6 +35,7 @@
                         <input type="password" name="password_confirmation" class="form-control" value="{{ old('password_confirm') }}"">
                     </div>
 
+
                     <button class="btn btn-primary" type="submit">注册</button>
                 </form>
             </div>
